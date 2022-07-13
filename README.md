@@ -1,4 +1,4 @@
-# object-component
+# vue2-ts-object-styled-component
 
 ## Project setup
 ```
